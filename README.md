@@ -57,3 +57,7 @@ src/
 
 - [PokeAPI](https://pokeapi.co/) por fornecer dados de Pokémon
 - [Google Fonts](https://fonts.google.com/) pela fonte Press Start 2P
+
+---
+
+Feito com ❤ por [Raissa Rib](https://github.com/raissarib).
