@@ -1,4 +1,4 @@
-# Pokédex Vue 3
+# PokeSearch
 
 Uma aplicação de Pokédex construída com Vue 3 e Pinia, para aplicar a arquitetura FLUX.
 
